@@ -27,6 +27,4 @@ It covers everything from **downloading and running models offline** to **integr
 4. Launch the chatbot with Gradio UI
 5. Start chatting with your **offline AI assistant** 🎉
 
----
-
 👉 This repo makes it easy to **turn your computer into a private AI chatbot** without depending on cloud APIs.
