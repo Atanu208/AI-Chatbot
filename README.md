@@ -21,7 +21,7 @@ It covers everything from **downloading and running models offline** to **integr
 
 ### 🚀 How to Use
 
-1. Install [Ollama](https://ollama.ai) on your system
+1. Install [Ollama] on your system
 2. Download LLaMA 3.2 models (1B or 3B)
 3. Run models via terminal or Jupyter Notebook
 4. Launch the chatbot with Gradio UI
